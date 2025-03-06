@@ -15,3 +15,8 @@
 "DESCRIPTION":NEURAL STYLE TRANSFER TO APPLY ARTISTIC STYLE TO PHOTOGRAPH.
 
 "OUTPUT":
+![Image](https://github.com/user-attachments/assets/6a9b6199-3465-42ff-a826-1d40e097ce4d)
+
+![Image](https://github.com/user-attachments/assets/e183e38b-d3ab-4f5e-9f0b-56d6f5296863)
+
+![Image](https://github.com/user-attachments/assets/499f8e9c-8938-4b9b-9b33-d87b227e1233)
