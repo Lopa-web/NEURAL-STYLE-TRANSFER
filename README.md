@@ -10,7 +10,7 @@
 
 "DURATION":8 WEEKS
 
-"MENTOR":NEELA_SANTHU
+"MENTOR":NEELA SANTOSH
 
 "DESCRIPTION":This project implements Neural Style Transfer (NST) using PyTorch and a pre-trained VGG19 model. NST is a deep learning technique that applies the artistic style of one image (style image) to another image (content image) while preserving the original content structure.
 Features:Uses VGG19’s feature maps to extract content and style representations.
